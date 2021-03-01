@@ -3,8 +3,6 @@ import pygame
 import random
 from os import path
 
-# Настройка папки ассетов
-
 img_dir = path.join(path.dirname(__file__), 'img')
 
 WIDTH = 480
